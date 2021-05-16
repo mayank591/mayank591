@@ -5,6 +5,6 @@
 - 📫 How to reach me ... mayanksharma.iirs@gmail.com, msharma2@ce.iitr.ac.in
 
 <!---
-mayank591/mayank591 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced Remote Sensing and GIS Professional with a demonstrated history of working in the Geo-spatial industry. Skilled in ArcGIS, Spatial Analysis, Erdas Imagine and Python. Strong research professional with a Master of Technology (M.Tech.) focused in REMOTE SENSING AND GIS from INDIAN INSTITUTE OF REMOTE SENSING.
 You can click the Preview link to take a look at your changes.
 --->
